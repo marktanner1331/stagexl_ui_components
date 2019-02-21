@@ -1,0 +1,3 @@
+mixin RefreshMixin {
+  void refresh();
+}
